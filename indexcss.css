@@ -1,6 +1,6 @@
 
 	@import 'https://fonts.googleapis.com/css?family=Noto+Sans';
-	@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+	@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 	*{
 		padding: 0;
 		margin: 0;
@@ -8,7 +8,7 @@
 		text-decoration: none;
 		list-style: none;
 		/*font-weight: 500;*/
-		font-family: 'Noto Sans', 'Microsoft JhengHei', sans-serif,'Noto Sans TC', sans-serif;
+		font-family: 'Noto Sans', 'Noto Sans TC', sans-serif, sans-serif;
 		/*outline: 1px solid red;*/
 
 	}
